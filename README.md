@@ -1,6 +1,6 @@
 ## Hello!👋
 
-My name is **J. Victor T. P.**, a Computer Engineering student interested in C, C++, VHDL and Verilog!
+My name is **J. Victor T. P.**, a Computer Engineering student interested in C, C++ and SystemVerilog!
 
 🔭 Currently Learning
 - Assembly MIPS.
