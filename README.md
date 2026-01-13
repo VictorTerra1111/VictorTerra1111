@@ -2,15 +2,17 @@
 
 My name is **J. Victor T. P.**, a Computer Engineering student interested in C, C++ and SystemVerilog!
 
-🔭 Currently Learning
-- Assembly MIPS.
-- Verilog.
+I am currently in a scholarship program in NT-Solar, a laboratory of Photovoltaic Modules and Cells, reasearching Agro photovoltaic Systems.  
+
+🔭 Currently Working with:
+- C / C++.
+- SystemVerilog.
   
 🌱 Personal Projects
-- Developing a Pokémon fan game entirely in C++, running in the Linux terminal.
+
 
 📫 Contact me 
-- email: victorterra221@gmail.com
+- email: j.pereira011@edu.pucrs.br
 - LinkedIn: [here!](https://www.linkedin.com/in/j-victor-tp/)
 
 🗺️ Languages
