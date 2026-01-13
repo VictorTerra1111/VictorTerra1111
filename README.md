@@ -13,7 +13,7 @@ I am currently in a scholarship program in NT-Solar, a laboratory of Photovoltai
 
 📫 Contact me 
 
-- Send me an mail here: <a href= "mailto:j.pereira011@edu.pucrs.br?subsection=Entrando%20em%20contato...&body=Olá%20%20">Clique aqui </a>
+- Send me an mail here: <a href= "mailto:j.pereira011@edu.pucrs.br?subject=Entrando%20em%20contato...&body=Olá%20%20">Clique aqui </a>
 
 
 - email: j.pereira011@edu.pucrs.br
